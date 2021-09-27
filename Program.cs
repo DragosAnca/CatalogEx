@@ -13,9 +13,11 @@ namespace GradeBook
             var result = 0.0;
             foreach (var number in grades)
             {
-                result += number;
+                result += number; // equivalent with result = result + number;
             }
             Console.WriteLine(result);
+            result /= grades.Count; // equivalent with result = result / grades.Count;
+            Console.WriteLine($"The average grade is {result:N1}");
 
             if (args.Length > 0)
             {
