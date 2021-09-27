@@ -12,7 +12,11 @@ Some steps
 
 1) given a collection of grades, we need to show the average grade in a console application
 
-2) add some classes 
+2) add some class for the grade Book
+
+3) compute lowest grade, highest grade and average grade in main Program
+
+4) move computation code to some  Statistics class
 
 If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
 - [ASP.NET Core](https://github.com/aspnet/Home)
