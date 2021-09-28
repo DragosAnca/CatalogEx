@@ -25,6 +25,10 @@ from the console and only stop reading the input if he presses the letter "q"
 6) add necessary code to translate a point grade to a letter grade where A = greater than 90, B = greater than 80, 
 C = greater than 70, D = greater than 60 and anything below  60 is an F
 
+7) Add OOP into the equation, make it possible for having an InMemoryBook and a DiskBook which would save stuff on disk
+
+8) Add grades to a text file on a new line for each grade introduced  by the user
+
 If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
 - [ASP.NET Core](https://github.com/aspnet/Home)
 - [Visual Studio Code](https://github.com/Microsoft/vscode)
