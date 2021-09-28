@@ -22,7 +22,8 @@ Some steps
 from the console and only stop reading the input if he presses the letter "q"
 *Make sure to parse the string into numbers before doing calculations
 
-
+6) add necessary code to translate a point grade to a letter grade where A = greater than 90, B = greater than 80, 
+C = greater than 70, D = greater than 60 and anything below  60 is an F
 
 If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
 - [ASP.NET Core](https://github.com/aspnet/Home)
